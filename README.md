@@ -1,2 +1,2 @@
-# xaos
-Exstream audible operating system protable and the principal use is for the xastation console.
+# xasos
+Exstream audible operating system portable and the principal use is for the xastation console.
